@@ -1,0 +1,15 @@
+C:\Users\amand\source\repos\Rutificador\Rutificador\bin\Debug\net6.0\Rutificador.exe
+C:\Users\amand\source\repos\Rutificador\Rutificador\bin\Debug\net6.0\Rutificador.deps.json
+C:\Users\amand\source\repos\Rutificador\Rutificador\bin\Debug\net6.0\Rutificador.runtimeconfig.json
+C:\Users\amand\source\repos\Rutificador\Rutificador\bin\Debug\net6.0\Rutificador.dll
+C:\Users\amand\source\repos\Rutificador\Rutificador\bin\Debug\net6.0\Rutificador.pdb
+C:\Users\amand\source\repos\Rutificador\Rutificador\obj\Debug\net6.0\Rutificador.csproj.AssemblyReference.cache
+C:\Users\amand\source\repos\Rutificador\Rutificador\obj\Debug\net6.0\Rutificador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\source\repos\Rutificador\Rutificador\obj\Debug\net6.0\Rutificador.AssemblyInfoInputs.cache
+C:\Users\amand\source\repos\Rutificador\Rutificador\obj\Debug\net6.0\Rutificador.AssemblyInfo.cs
+C:\Users\amand\source\repos\Rutificador\Rutificador\obj\Debug\net6.0\Rutificador.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\Rutificador\Rutificador\obj\Debug\net6.0\Rutificador.dll
+C:\Users\amand\source\repos\Rutificador\Rutificador\obj\Debug\net6.0\refint\Rutificador.dll
+C:\Users\amand\source\repos\Rutificador\Rutificador\obj\Debug\net6.0\Rutificador.pdb
+C:\Users\amand\source\repos\Rutificador\Rutificador\obj\Debug\net6.0\Rutificador.genruntimeconfig.cache
+C:\Users\amand\source\repos\Rutificador\Rutificador\obj\Debug\net6.0\ref\Rutificador.dll
